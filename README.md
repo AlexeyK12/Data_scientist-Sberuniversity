@@ -9,4 +9,4 @@
 ## Описание проектов:
 | Номер проекта | Название и ссылка | О чем проект                                                     |
 |---------------|-------------------|------------------------------------------------------------------|
-|1              |[EDA_Netflix](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/1_Проект_EDA_Netflix/1_EDA_Netflix.ipynb)|Исследовательский анализ шоу выпускаемых Netflix|
+|1              |[EDA_Netflix](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/1_Проект_EDA_Netflix/1_Проект_EDA_Netflix.ipynb)|Исследовательский анализ шоу выпускаемых Netflix|
