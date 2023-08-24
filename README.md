@@ -1,6 +1,6 @@
 # Sberbank-Corporate-University
 
-# Репозиторий проектов по Data Science
+# Репозиторий проектов и материалов по предмету Data Science
 
 
 
