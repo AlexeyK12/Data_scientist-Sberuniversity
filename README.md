@@ -13,7 +13,7 @@
 |2              |[ДЗ_Задачи регрессии и классификации](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/ДЗ_Regression%26Classification.ipynb)|Прогнозы стоимости бриллиантов и определение гендера и класса|
 |3              |[ДЗ_Математическая оптимизация](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/Математическая_оптимизация_ДЗ.ipynb)|Реализация функций оптимизации от градиентного спуска до RMSProp|
 |4              |[Соревнование Kaggle](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/Проект_2/Проект_2.ipynb)|Построение моделей прогнозирующих стоимость недвижимости|
-|5              | [Проект на PyTorch - вкладка 1](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/ДЗ_Введение_в_PyTorch/AK___Введение_в_DL_1_homework_task_ipynb_.ipynb) [Проект на PyTorch - вкладка 2](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/ДЗ_Введение_в_PyTorch/AK__Введение_в_DL_2_homework_task_ipynb_.ipynb) | Основы работы с библиотекой разработки нейронных сетей - torch |
+|5              | [Проект на PyTorch - вкладка 1, ](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/ДЗ_Введение_в_PyTorch/AK___Введение_в_DL_1_homework_task_ipynb_.ipynb) [Проект на PyTorch - вкладка 2](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/ДЗ_Введение_в_PyTorch/AK__Введение_в_DL_2_homework_task_ipynb_.ipynb) | Основы работы с библиотекой разработки нейронных сетей - torch |
 
 
 
