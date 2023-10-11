@@ -1,5 +1,5 @@
 # Sberbank-Corporate-University
-
+![Image](sber.png)
 # Репозиторий проектов и материалов по предмету Data Science
 
 
