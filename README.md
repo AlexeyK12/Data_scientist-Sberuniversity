@@ -26,7 +26,8 @@
 |15             | [ДЗ_Основы_PyTorch - вкладка 1,](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/ДЗ_Введение_в_PyTorch/AK___Введение_в_DL_1_homework_task_ipynb_.ipynb)  [вкладка 2](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/ДЗ_Введение_в_PyTorch/AK__Введение_в_DL_2_homework_task_ipynb_.ipynb) | Основы работы с библиотекой разработки нейронных сетей - torch |
 |16             |[Генеративно-состязательные сети](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/Генеративные_модели_на_основе_нейронных_сетей_генеративно_состязательные_нейронные_сети.ipynb)|Разбор архитектуры для генерации изображений - GAN|
 |17             |[ДЗ Основы Компьютерного зрения](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/%22Основы_CV_1_homework_ipynb%22.ipynb)|Свёрточные нейронные сети|
-|18             |[Выпускной проект/](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/Выпускной%20проект/Выпускной_проект_Куделькин_А_git.ipynb)   [Презентация](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/Выпускной%20проект/KudelckinAE.pdf)|Сравнительный анализ работы алгоритмов ML и DL|
+|18             |[Рекомендательные системы](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/RecSys.ipynb)|Основы построения рекомендательных систем|
+|19             |[Выпускной проект/](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/Выпускной%20проект/Выпускной_проект_Куделькин_А_git.ipynb)   [Презентация](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/Выпускной%20проект/KudelckinAE.pdf)|Сравнительный анализ работы алгоритмов ML и DL|
 
 
 
